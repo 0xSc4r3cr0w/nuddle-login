@@ -1,0 +1,15 @@
+.fsll{
+    font-size: 12px;
+}
+
+.fixed-width{
+    width: 400px;
+}
+
+#password{
+    display: none;
+}
+
+#backButton{
+    display: none;
+}
